@@ -4,7 +4,7 @@ int main()
 {
     long long int t,n,k;
     cin>>t;
-    while(t--)
+    for(int i=0;i<t;i++)
     {
         cin>>n>>k;
         long long int xoxo[n];
